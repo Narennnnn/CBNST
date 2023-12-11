@@ -1,0 +1,4 @@
+Newton raphson
+Newton forward
+Lagrange
+Euler's
